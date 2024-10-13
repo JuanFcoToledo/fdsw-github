@@ -9,7 +9,11 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=3543&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+  background-image: linear-gradient(
+      rgba(16, 13, 13, 0.5),
+      rgba(18, 5, 5, 0.598)
+    ),
+    url("https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=3543&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
   height: 700px;
   background-repeat: no-repeat;
   background-size: cover;
