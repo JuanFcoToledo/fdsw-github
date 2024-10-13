@@ -2,6 +2,10 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+.nombre {
+  font-weight: 800;
+}
+
 /* Hero Section */
 
 #Hero-Section {
@@ -31,9 +35,7 @@ body {
   #Contacto form label {
     font-weight: 400;
   }
-
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
-
 }
